@@ -1275,7 +1275,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[BPD]**:  
 (@) **[BPE]**:  
 (@) **[BPF]**:  
-(@) **[BPG]**:  
+(@) **[BPG]**
+: Better Portable Graphics (image graphics)
+
 (@) **[BPH]**:  
 (@) **[BPI]**:  
 (@) **[BPJ]**:  
@@ -2051,7 +2053,8 @@ Without particular order. Subject to change without previous notice. ---A.
 
 ## CP
 
-(@) **[CPA]**:  
+(@) **[CPA]**
+: Cost Per Action (measurement, advertising)
 (@) **[CPB]**:  
 (@) **[CPC]**:  
 (@) **[CPD]**:  
@@ -2062,15 +2065,21 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[CPI]**:  
 (@) **[CPJ]**:  
 (@) **[CPK]**:  
-(@) **[CPL]**:  
-(@) **[CPM]**:  
+(@) **[CPL]**
+: Cost Per Lead (measurement, advertising)
+(@) **[CPM]**
+: Cost Per Mille (measurement, advertising). See also: **CPM**
+
 (@) **[CPN]**:  
 (@) **[CPO]**:  
 (@) **[CPP]**:  
 (@) **[CPQ]**:  
 (@) **[CPR]**:  
 (@) **[CPS]**:  
-(@) **[CPT]**:  
+(@) **[CPT]**
+: Cost Per Thousand (measurement, advertising). See also: **CPM**
+: Charge-Parity-Time (physics, type of symmetry)
+
 (@) **[CPU]**:  
 (@) **[CPV]**:  
 (@) **[CPW]**:  
@@ -2189,7 +2198,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[CTO]**:  
 (@) **[CTP]**:  
 (@) **[CTQ]**:  
-(@) **[CTR]**:  
+(@) **[CTR]**
+: Click-Through Rate (advertising)
+
 (@) **[CTS]**:  
 (@) **[CTT]**:  
 (@) **[CTU]**:  
@@ -2626,7 +2637,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[DIM]**:  
 (@) **[DIN]**:  
 (@) **[DIO]**:  
-(@) **[DIP]**:  
+(@) **[DIP]**
+: Dependency Inversion Principle (object oriented programming)
+
 (@) **[DIQ]**:  
 (@) **[DIR]**:  
 (@) **[DIS]**:  
@@ -2635,7 +2648,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[DIV]**:  
 (@) **[DIW]**:  
 (@) **[DIX]**:  
-(@) **[DIY]**:  
+(@) **[DIY]**
+: Do-It-Yourself
+
 (@) **[DIZ]**:  
 
 ## DJ
@@ -3759,7 +3774,9 @@ Without particular order. Subject to change without previous notice. ---A.
 
 ## EV
 
-(@) **[EVA]**:  
+(@) **[EVA]**
+: Extended Vector Animation (image format)
+
 (@) **[EVB]**:  
 (@) **[EVC]**:  
 (@) **[EVD]**:  
@@ -4644,7 +4661,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[FYF]**:  
 (@) **[FYG]**:  
 (@) **[FYH]**:  
-(@) **[FYI]**:  
+(@) **[FYI]**
+: For Your Information
+
 (@) **[FYJ]**:  
 (@) **[FYK]**:  
 (@) **[FYL]**:  
@@ -6305,7 +6324,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[ICP]**:  
 (@) **[ICQ]**:  
 (@) **[ICR]**:  
-(@) **[ICS]**:  
+(@) **[ICS]**
+: Image Cytometry Standard (image format)
+
 (@) **[ICT]**:  
 (@) **[ICU]**:  
 (@) **[ICV]**:  
@@ -6666,7 +6687,9 @@ Without particular order. Subject to change without previous notice. ---A.
 
 ## IP
 
-(@) **[IPA]**:  
+(@) **[IPA]**
+: Imperial Pale Ale (beer)
+
 (@) **[IPB]**:  
 (@) **[IPC]**:  
 (@) **[IPD]**:  
@@ -6779,6 +6802,7 @@ Without particular order. Subject to change without previous notice. ---A.
 
 (@) **[ISP]**
 : Internet Service Provider
+: Interface Segregation Principle (object oriented programming)
 
 (@) **[ISQ]**:  
 (@) **[ISR]**:  
@@ -7155,7 +7179,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[JFH]**:  
 (@) **[JFI]**:  
 (@) **[JFJ]**:  
-(@) **[JFK]**:  
+(@) **[JFK]**
+: John Fitzgerald Kennedy (politician)
+
 (@) **[JFL]**:  
 (@) **[JFM]**:  
 (@) **[JFN]**:  
@@ -8938,7 +8964,7 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[LOJ]**:  
 (@) **[LOK]**:  
 (@) **[LOL]**
-: Laugh(ing) Out Loud
+: Laugh(-ing) Out Loud
 
 (@) **[LOM]**:  
 (@) **[LON]**:  
@@ -9061,7 +9087,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[LSM]**:  
 (@) **[LSN]**:  
 (@) **[LSO]**:  
-(@) **[LSP]**:  
+(@) **[LSP]**
+: Liskov Substitution Principle (object oriented programming)
+
 (@) **[LSQ]**:  
 (@) **[LSR]**:  
 (@) **[LSS]**:  
@@ -10885,7 +10913,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[OCM]**:  
 (@) **[OCN]**:  
 (@) **[OCO]**:  
-(@) **[OCP]**:  
+(@) **[OCP]**
+: Open/Closed Principle (object oriented programming)
+
 (@) **[OCQ]**:  
 (@) **[OCR]**:  
 (@) **[OCS]**:  
@@ -11233,7 +11263,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[OOM]**:  
 (@) **[OON]**:  
 (@) **[OOO]**:  
-(@) **[OOP]**:  
+(@) **[OOP]**
+: Object Oriented Programming
+
 (@) **[OOQ]**:  
 (@) **[OOR]**:  
 (@) **[OOS]**:  
@@ -11662,7 +11694,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[PDC]**:  
 (@) **[PDD]**:  
 (@) **[PDE]**:  
-(@) **[PDF]**:  
+(@) **[PDF]**
+: Portable Document Format
+
 (@) **[PDG]**:  
 (@) **[PDH]**:  
 (@) **[PDI]**:  
@@ -11971,7 +12005,7 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[PNR]**:  
 (@) **[PNS]**:  
 (@) **[PNT]**
-: Prime Number Theorem
+: Prime Number Theorem (mathematics)
 
 (@) **[PNU]**:  
 (@) **[PNV]**:  
@@ -12013,7 +12047,9 @@ Without particular order. Subject to change without previous notice. ---A.
 
 (@) **[PPA]**:  
 (@) **[PPB]**:  
-(@) **[PPC]**:  
+(@) **[PPC]**
+: Pay Per Click (advertising)
+
 (@) **[PPD]**:  
 (@) **[PPE]**:  
 (@) **[PPF]**:  
@@ -12763,7 +12799,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[QOI]**:  
 (@) **[QOJ]**:  
 (@) **[QOK]**:  
-(@) **[QOL]**:  
+(@) **[QOL]**
+: Quality Of Life
+
 (@) **[QOM]**:  
 (@) **[QON]**:  
 (@) **[QOO]**:  
@@ -13637,7 +13675,9 @@ Without particular order. Subject to change without previous notice. ---A.
 
 ## RS
 
-(@) **[RSA]**:  
+(@) **[RSA]**
+: Rivest-Shamir-Adleman algorithm 
+
 (@) **[RSB]**:  
 (@) **[RSC]**:  
 (@) **[RSD]**:  
@@ -14385,7 +14425,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[SRM]**:  
 (@) **[SRN]**:  
 (@) **[SRO]**:  
-(@) **[SRP]**:  
+(@) **[SRP]**
+: Single Responsibility Principle (object-oriented programming)
+
 (@) **[SRQ]**:  
 (@) **[SRR]**:  
 (@) **[SRS]**:  
@@ -14494,7 +14536,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[SVD]**:  
 (@) **[SVE]**:  
 (@) **[SVF]**:  
-(@) **[SVG]**:  
+(@) **[SVG]**
+: Scalable Vector Graphics (image format)
+
 (@) **[SVH]**:  
 (@) **[SVI]**:  
 (@) **[SVJ]**:  
@@ -16735,7 +16779,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[VTO]**:  
 (@) **[VTP]**:  
 (@) **[VTQ]**:  
-(@) **[VTR]**:  
+(@) **[VTR]**
+: View-Through Rate (measurement, advertising)
+
 (@) **[VTS]**:  
 (@) **[VTT]**:  
 (@) **[VTU]**:  
@@ -19965,8 +20011,9 @@ Without particular order. Subject to change without previous notice. ---A.
 
 # Version History
 
-20200216: 70 entries filled (0.38%), 125 total acronyms
-
+- 20200216: 70 entries filled (0.38%), 125 total acronyms
+- 20200329: 79 entries filled (0.38%), 135 total acronyms
+- 20200525: 93 entries filled (0.52%), 150 total acronyms
 ---
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 
