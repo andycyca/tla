@@ -1724,7 +1724,9 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[CEL]**:  
 (@) **[CEM]**:  
 (@) **[CEN]**:  
-(@) **[CEO]**:  
+(@) **[CEO]**
+: Chief Executive Officer (position)
+
 (@) **[CEP]**:  
 (@) **[CEQ]**:  
 (@) **[CER]**:  
@@ -3399,7 +3401,9 @@ Without particular order. Subject to change without previous notice. ---A.
 
 (@) **[EIA]**:  
 (@) **[EIB]**:  
-(@) **[EIC]**:  
+(@) **[EIC]**
+: Editor In Chief (position)
+
 (@) **[EID]**:  
 (@) **[EIE]**:  
 (@) **[EIF]**:  
