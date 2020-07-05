@@ -1361,7 +1361,8 @@ Without particular order. Subject to change without previous notice. ---A.
 (@) **[BSA]**:  
 (@) **[BSB]**:  
 (@) **[BSC]**:  
-(@) **[BSD]**:  
+(@) **[BSD]**
+: Berkeley Software Distribution
 (@) **[BSE]**:  
 (@) **[BSF]**:  
 (@) **[BSG]**:  
